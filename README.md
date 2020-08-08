@@ -1,2 +1,1 @@
-# carprediction
-Learning purpose proj
+# Car-Price-Prediction
